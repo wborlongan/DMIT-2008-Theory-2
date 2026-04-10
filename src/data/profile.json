@@ -41,6 +41,11 @@
         "url": "https://www.linkedin.com/in/wesley-borlongan-433797349"
       }
     ],
+    "supportLink": {
+      "url": "https://ko-fi.com",
+      "imageSrc": "https://storage.ko-fi.com/cdn/kofi6.png?v=6",
+      "imageAlt": "Buy Me a Coffee"
+    },
     "image": {
       "src": "/me.webp",
       "alt": "memoji of Wesley"
