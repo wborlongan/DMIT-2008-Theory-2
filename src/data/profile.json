@@ -20,7 +20,7 @@
     "publisherName": "Wesley Borlongan",
     "sameAs": [
       "https://github.com/wborlongan",
-      "https://www.linkedin.com/in/wesley-borlongan-433797349/"
+      "https://www.linkedin.com/in/wesley-borlongan-433797349"
     ]
   },
   "intro": {
@@ -38,7 +38,7 @@
         "ariaLabel": "linkedin profile",
         "screenReaderLabel": "LinkedIn Profile",
         "icon": "ri:linkedin-box-fill",
-        "url": "https://www.linkedin.com/in/wesley-borlongan-433797349/"
+        "url": "https://www.linkedin.com/in/wesley-borlongan-433797349"
       }
     ],
     "image": {
@@ -55,7 +55,8 @@
       "React",
       "Node.js",
       "PHP",
-      "CSS & Tailwind"
+      "CSS & Tailwind",
+      "Astro"
     ],
     "passion": "Outside of coding, I enjoy anime, Gunpla, event organizing, and building atmospheric UI systems. I love combining design, storytelling, and interactivity to create memorable user experiences.",
     "approach": "I focus on clean, maintainable code and scalable design systems. I choose tools based on the project’s needs and aim to deliver thoughtful, user‑centered solutions."
@@ -63,13 +64,13 @@
   "contacts": {
     "title": "Let's connect!",
     "contactDetailsTitle": "Contact Details",
-    "email": "your-email@example.com",
+    "email": "wesleyborlongan9@gmail.com",
     "location": "St. Albert & Edmonton, Alberta",
     "socialsTitle": "Socials",
     "socialLinks": [
       {
         "label": "LinkedIn",
-        "url": "https://www.linkedin.com/in/wesley-borlongan-433797349/"
+        "url": "https://www.linkedin.com/in/wesley-borlongan-433797349"
       },
       {
         "label": "GitHub",
