@@ -7,6 +7,11 @@ const nextConfig = {
         protocol: "https",
         hostname: "storage.ko-fi.com",
       },
+      {
+        protocol: "https",
+        hostname: "openweathermap.org",
+
+      },
     ],
   },
 };
