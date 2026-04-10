@@ -1,4 +1,4 @@
-import profile from '../../../docs/profile.json';
+import profile from 'src/data/profile.json';
 
 export default function handler(req, res) {
   res.status(200).json(profile.about);
