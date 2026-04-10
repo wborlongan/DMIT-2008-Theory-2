@@ -1,6 +1,7 @@
 # Theory 2
 
 > Student Name: **WESLEY BORLONGAN**
+> Github: **wborlongan**
 
 ![Website Screenshot](./docs/images/screenshot.png)
 
