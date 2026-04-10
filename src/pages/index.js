@@ -143,7 +143,8 @@ import { getWeatherForProfile } from "@/lib/weather";
 import profile from "@/data/profile.json";
 
 export async function getServerSideProps() {
-  const apiKey = process.env.OPENWEATHER_API_KEY;
+  const apiKey = process.env.NEXT_PUBLIC_OPENWEATHER_API_KEY;
+
 
   // Edmonton (default)
   const edmontonWeather = await getWeatherForProfile(profile, apiKey);
