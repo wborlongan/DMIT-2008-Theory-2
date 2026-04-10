@@ -1,95 +1,79 @@
 {
   "site": {
-    "title": "Gianmarco Cavallo - Freelance front-end Developer",
-    "description": "I'm a developer based in Italy, passionate about user experience and specializing in engaging animations and micro-interactions. My primary tools of choice include: JavaScript, React, Solid.js, Astro, Svelte, and Node.js.",
+    "title": "Wesley Borlongan – Web Developer & Designer",
+    "description": "Aspiring full‑stack developer studying DMIT-Web Design & Development at NAIT. Passionate about UI/UX, atmospheric design, animations, and building polished, responsive web experiences.",
     "footer": {
       "year": "2026",
-      "prefix": "Built on",
+      "prefix": "Built with",
       "frameworkName": "React",
       "frameworkUrl": "https://react.dev/",
-      "author": "AI under the guidance of DanG-IT Professional"
+      "author": "Wesley Borlongan"
     }
   },
   "seo": {
-    "personName": "Gianmarco",
-    "jobTitle": "Freelance Frontend Developer",
-    "worksFor": "Self-Employed",
-    "location": "Italy",
-    "countryCode": "IT",
-    "nationality": "Italy",
-    "publisherName": "Gianmarco",
+    "personName": "Wesley Borlongan",
+    "jobTitle": "Aspiring Full‑Stack Developer",
+    "worksFor": "NAIT – DMIT Web Design & Development",
+    "location": "St. Albert & Edmonton, Alberta",
+    "countryCode": "CA",
+    "nationality": "Canadian",
+    "publisherName": "Wesley Borlongan",
     "sameAs": [
-      "https://www.linkedin.com/in/gianmarco-cavallo/",
-      "https://github.com/Ladvace"
+      "https://github.com/wborlongan",
+      "https://www.linkedin.com/in/wesley-borlongan-433797349/"
     ]
   },
   "intro": {
     "welcomeLabel": "welcome",
-    "name": "Gianmarco Cavallo",
-    "summary": "a software developer with strong focus on the user experience, animations and micro interactions",
+    "name": "Wesley Borlongan",
+    "summary": "a web developer focused on clean UI, immersive design, and building polished, responsive experiences",
     "socialButtons": [
       {
         "ariaLabel": "github profile",
         "screenReaderLabel": "GitHub Profile",
         "icon": "ri:github-fill",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/wborlongan"
       },
       {
         "ariaLabel": "linkedin profile",
-        "screenReaderLabel": "Linkedin Profile",
+        "screenReaderLabel": "LinkedIn Profile",
         "icon": "ri:linkedin-box-fill",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
-      },
-      {
-        "ariaLabel": "dribble profile",
-        "screenReaderLabel": "Dribble Profile",
-        "icon": "ri:dribbble-fill",
-        "url": "https://dribbble.com/Ladvace_Jace"
+        "url": "https://www.linkedin.com/in/wesley-borlongan-433797349/"
       }
     ],
-    "supportLink": {
-      "url": "https://ko-fi.com/M4M71O34X",
-      "imageSrc": "https://storage.ko-fi.com/cdn/kofi6.png?v=6",
-      "imageAlt": "Buy Me a Coffee at ko-fi.com"
-    },
     "image": {
       "src": "/me.webp",
-      "alt": "memoji of gianmarco"
+      "alt": "memoji of Wesley"
     }
   },
   "about": {
     "title": "About me",
-    "intro": "Hi, I'm Gianmarco, a front-end software developer from Italy.",
-    "toolsIntro": "My primary tools of choice includes:",
+    "intro": "Hi, I'm Wesley — a web developer studying at NAIT, passionate about UI/UX, animations, and building polished digital experiences.",
+    "toolsIntro": "My primary tools and technologies include:",
     "tools": [
       "JavaScript",
       "React",
-      "Solidjs",
-      "Astro",
-      "Svelte",
-      "Nodejs"
+      "Node.js",
+      "PHP",
+      "CSS & Tailwind"
     ],
-    "passion": "Beyond coding, I'm passionate about design, illustration, animation and 3D modelling and traveling. An unusual hobby of mine is collecting vintage passports, they're interesting pieces of history to me.",
-    "approach": "While I have some preferred tools, I always choose the best one for the job, even if it's not on my usual list. My goal is to find the right solution for each project."
+    "passion": "Outside of coding, I enjoy anime, Gunpla, event organizing, and building atmospheric UI systems. I love combining design, storytelling, and interactivity to create memorable user experiences.",
+    "approach": "I focus on clean, maintainable code and scalable design systems. I choose tools based on the project’s needs and aim to deliver thoughtful, user‑centered solutions."
   },
   "contacts": {
-    "title": "Let's start working together!",
+    "title": "Let's connect!",
     "contactDetailsTitle": "Contact Details",
-    "email": "contact@gianmarcocavallo.com",
-    "location": "Italy",
+    "email": "your-email@example.com",
+    "location": "St. Albert & Edmonton, Alberta",
     "socialsTitle": "Socials",
     "socialLinks": [
       {
-        "label": "Linkedin",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/wesley-borlongan-433797349/"
       },
       {
-        "label": "Github",
-        "url": "https://github.com/Ladvace"
-      },
-      {
-        "label": "Discord",
-        "url": "https://discordapp.com/users/163300027618295808"
+        "label": "GitHub",
+        "url": "https://github.com/wborlongan"
       }
     ]
   },
@@ -101,18 +85,18 @@
     "title": "Now",
     "helpLabel": "what's that ?",
     "helpUrl": "https://sive.rs/nowff",
-    "status": "Currently working fulltime"
+    "status": "Currently studying full‑time and building portfolio projects"
   },
   "sections": {
     "schoolAssignment": {
-      "title": "DMIT-2008 Theory 2",
+      "title": "DMIT‑2008 Theory 2",
       "href": "https://www.nait.ca/nait/marketing/new-media-and-it-programs",
       "target": "_blank",
-      "placeholder": "Final Graduating Class"
+      "placeholder": "NAIT Web Design & Development"
     },
     "comingSoon": {
       "title": "Coming Soon",
-      "message": "This area is reserved for a new component that is currently being designed.",
+      "message": "This area is reserved for a new component currently being developed.",
       "cta": "Design in progress"
     }
   }
